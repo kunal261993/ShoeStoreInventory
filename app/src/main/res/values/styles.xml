@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="scrollViewTextStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/darkBlack</item>
+        <item name="android:textSize">@dimen/twenty</item>
+    </style>
+    <style name="header">
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/thirty</item>
+        <item name="android:padding">@dimen/hundred</item>
+        <item name="android:background">@color/blue</item>
+    </style>
+    <style name="buttonStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">@dimen/eightteen</item>
+        <item name="android:padding">@dimen/fifteen</item>
+    </style>
+    <style name="textStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/darkBlack</item>
+        <item name="android:textSize">@dimen/twentyfive</item>
+        <item name="android:padding">@dimen/twenty</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    <style name="labelStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/darkBlack</item>
+        <item name="android:textSize">@dimen/fifteen</item>
+        <item name="android:padding">@dimen/ten</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+</resources>

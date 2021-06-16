@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Shoe Store Inventory</string>
+    <string name="app_header">SHOE STORE INVENTORY</string>
+    <string name="next">Next</string>
+    <string name="login">Login</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="addShoe">Add Shoe</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">Logout</string>
+    <string name="shoeName">Shoe Name</string>
+    <string name="shoeList">Shoe List</string>
+    <string name="passwordError">Please enter 8 or more characters for password</string>
+    <string name="emailError">Please enter a valid email id</string>
+    <string name="shoeNameError">Please enter shoe name</string>
+    <string name="shoeBrandError">Please enter shoe brand</string>
+    <string name="shoeSizeError">Please enter proper shoe size between 7-15</string>
+    <string name="shoeDescriptionError">Please enter shoe description</string>
+    <string name="shoeBrand">Shoe Brand</string>
+    <string name="welcomeHeader">Welcome to the Shoe Inventory App</string>
+    <string name="welcomeDescription">It is a fun app where you can see a list of shoes and add shoes to existing list.</string>
+    <string name="shoeSize">Shoe Size</string>
+    <string name="shoeDescription">Shoe Description</string>
+    <string name="fillDetails">Fill Shoe Details</string>
+    <string name="loginExisitingAccount">Login With Existing Account</string>
+    <string name="instructionHeader">Instructions</string>
+    <string name="instructions">1) To add shoes click on the plus button , fill the necessary details ,then click on add shoes.\n\n2) Enjoy the App.</string>
+</resources>
