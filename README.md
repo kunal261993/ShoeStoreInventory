@@ -2,6 +2,7 @@
 
 ## **Project Overview**
 
+In this project I have created an app where you can add shoe details and view them on the shoe listing screen. This app basically demonstrates the use of navigation components, data binding, viewmodel , livedata and MVVM.
 This project consists of five screens : 
 
 * Login screen: Email and password fields and labels plus create and login buttons
